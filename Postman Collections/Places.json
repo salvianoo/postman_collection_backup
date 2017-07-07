@@ -50,7 +50,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n    \"name\": \"Battery Harris\",\n    \"latitude\": 40.712017,\n    \"longitude\": -73.950995,\n    \"status\": \"successful\"\n}"
+              "raw": "{\n    \"name\": \"Battery Harris\",\n    \"latitude\": 40.712017,\n    \"longitude\": -73.950995,\n    \"status\": \"failed\"\n}"
             },
             "description": ""
           },
